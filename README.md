@@ -148,6 +148,9 @@ BigQuery • FastAPI • Flask • GDAL • JWT • NumPy • OAuth • Pandas �
 <a href="https://leetcode.com/u/MohitGaur17">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+<a href="https://codechef.com/users/MohitGaur">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 </p>
 
 ---

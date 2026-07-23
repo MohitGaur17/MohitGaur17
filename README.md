@@ -26,7 +26,7 @@ Config-driven full-stack application builder that generates production-ready app
 
 ---
 
-## [TalentLens AI](https://github.com/MohitGaur17/TalentLens-AI)
+## [TalentLens AI](https://github.com/MohitGaur17/TalentLensAI)
 
 AI-powered resume analyzer that evaluates resumes against job descriptions and generates ATS-aware feedback with personalized improvement suggestions.
 
@@ -34,7 +34,7 @@ AI-powered resume analyzer that evaluates resumes against job descriptions and g
 
 ---
 
-## [Satellite Image Classification Using Machine Learning](https://github.com/MohitGaur17/Satellite-Image-Classification-Using-Machine-Learning-Techniques)
+## [Satellite Image Classification Using Machine Learning](https://github.com/MohitGaur17/satellite-image-classification-ml)
 
 End-to-end land-cover classification pipeline using Landsat 9 imagery, GIS, and machine learning.
 
@@ -42,7 +42,7 @@ End-to-end land-cover classification pipeline using Landsat 9 imagery, GIS, and 
 
 ---
 
-## [Automated EDA Dashboard](https://github.com/MohitGaur17/Automated-EDA-Dashboard)
+## [Automated EDA Dashboard](https://github.com/MohitGaur17/Auto-EDA-Dashboard)
 
 Interactive analytics platform that automates exploratory data analysis through dataset profiling, statistical insights, and visualizations.
 

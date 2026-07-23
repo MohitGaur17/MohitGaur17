@@ -6,7 +6,7 @@ I enjoy turning ideas into real software—from scalable web applications and ba
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Building scalable full-stack applications
 - Designing scalable backend systems and REST APIs
@@ -16,7 +16,7 @@ I enjoy turning ideas into real software—from scalable web applications and ba
 
 ---
 
-# 🔥 Featured Projects
+# Featured Projects
 
 ## [ConfigFlow](https://github.com/MohitGaur17/ConfigFlow)
 
@@ -51,7 +51,7 @@ Interactive analytics platform that automates exploratory data analysis through 
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### DRDO
 
@@ -93,7 +93,7 @@ Built and managed an anime-focused website that reached **20,000+ daily page vie
 
 ---
 
-# 📖 Engineering Journey
+# Engineering Journey
 
 My journey into software engineering began unexpectedly.
 
@@ -107,19 +107,19 @@ Today, I build full-stack applications, cloud systems, and AI-powered products w
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,express,postgres,prisma,mongodb,tailwind,gcp,docker,git,postman,c,kotlin,opencv,scikitlearn,html,css,arduino,npm,androidstudio&perline=9" />
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,express,postgres,prisma,mongodb,tailwind,gcp,docker,git,postman,c,kotlin,opencv,scikitlearn,html,css,arduino,npm,androidstudio,fastapi,flask&perline=9" />
 </p>
 
 **Also worked with**
 
-BigQuery • FastAPI • Flask • GDAL • JWT • NumPy • OAuth • Pandas • Plotly • Puter.js • Rasterio • Streamlit
+BigQuery • GDAL • JWT • NumPy • OAuth • Pandas • Plotly • Puter.js • Rasterio • Streamlit
 
 ---
 
-# 🌱 Currently Exploring
+# Currently Exploring
 
 - Backend System Design
 - DevOps
@@ -128,7 +128,7 @@ BigQuery • FastAPI • Flask • GDAL • JWT • NumPy • OAuth • Pandas �
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=MohitGaur17&theme=github-dark&hide_border=true"/>
@@ -136,7 +136,7 @@ BigQuery • FastAPI • Flask • GDAL • JWT • NumPy • OAuth • Pandas �
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/sweMohitGaur">

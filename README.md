@@ -128,14 +128,6 @@ BigQuery • GDAL • JWT • NumPy • OAuth • Pandas • Plotly • Puter.js
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MohitGaur17&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 # Connect With Me
 
 <p align="center">

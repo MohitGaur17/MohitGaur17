@@ -1,22 +1,22 @@
 # Hi, I'm Mohit Gaur 👋
 
-### Software Engineer • Full-Stack • Cloud • Applied AI
+### Software Engineer • Full-Stack • Applied AI
 
-I enjoy turning ideas into real software—from scalable web applications and backend systems to machine learning solutions and cloud-native platforms. My goal is simple: **build software that's useful, scalable, and enjoyable to use.**
+I enjoy turning ideas into real software—from scalable web applications and backend systems to machine learning solutions. My goal is simple: **build software that's useful, scalable, and enjoyable to use.**
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
 - Building scalable full-stack applications
 - Designing scalable backend systems and REST APIs
 - Building AI-powered applications
-- Learning system design and cloud architecture
+- Learning system design 
 - Writing clean, maintainable software
 
 ---
 
-# Featured Projects
+# 🔥 Featured Projects
 
 ## [ConfigFlow](https://github.com/MohitGaur17/ConfigFlow)
 
@@ -26,7 +26,7 @@ Config-driven full-stack application builder that generates production-ready app
 
 ---
 
-## [TalentLens AI](https://github.com/MohitGaur17/TalentLensAI)
+## [TalentLens AI](https://github.com/MohitGaur17/TalentLens-AI)
 
 AI-powered resume analyzer that evaluates resumes against job descriptions and generates ATS-aware feedback with personalized improvement suggestions.
 
@@ -34,7 +34,7 @@ AI-powered resume analyzer that evaluates resumes against job descriptions and g
 
 ---
 
-## [Satellite Image Classification Using Machine Learning](https://github.com/MohitGaur17/satellite-image-classification-ml)
+## [Satellite Image Classification Using Machine Learning](https://github.com/MohitGaur17/Satellite-Image-Classification-Using-Machine-Learning-Techniques)
 
 End-to-end land-cover classification pipeline using Landsat 9 imagery, GIS, and machine learning.
 
@@ -42,7 +42,7 @@ End-to-end land-cover classification pipeline using Landsat 9 imagery, GIS, and 
 
 ---
 
-## [Automated EDA Dashboard](https://github.com/MohitGaur17/Auto-EDA-Dashboard)
+## [Automated EDA Dashboard](https://github.com/MohitGaur17/Automated-EDA-Dashboard)
 
 Interactive analytics platform that automates exploratory data analysis through dataset profiling, statistical insights, and visualizations.
 
@@ -51,7 +51,7 @@ Interactive analytics platform that automates exploratory data analysis through 
 
 ---
 
-# Experience
+# 💼 Experience
 
 ### DRDO
 
@@ -93,7 +93,7 @@ Built and managed an anime-focused website that reached **20,000+ daily page vie
 
 ---
 
-# Engineering Journey
+# 📖 Engineering Journey
 
 My journey into software engineering began unexpectedly.
 
@@ -107,19 +107,19 @@ Today, I build full-stack applications, cloud systems, and AI-powered products w
 
 ---
 
-# Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,express,postgres,prisma,mongodb,tailwind,gcp,docker,git,postman,c,kotlin,opencv,scikitlearn,html,css,arduino,npm,androidstudio,fastapi,flask&perline=9" />
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,express,postgres,prisma,mongodb,tailwind,git,postman,c,scikitlearn,html,css&perline=9" />
 </p>
 
 **Also worked with**
 
-BigQuery • GDAL • JWT • NumPy • OAuth • Pandas • Plotly • Puter.js • Rasterio • Streamlit
+JWT • NumPy • OAuth • Pandas • Plotly • Streamlit
 
 ---
 
-# Currently Exploring
+# 🌱 Currently Exploring
 
 - Backend System Design
 - DevOps
@@ -128,7 +128,20 @@ BigQuery • GDAL • JWT • NumPy • OAuth • Pandas • Plotly • Puter.js
 
 ---
 
-# Connect With Me
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohitGaur17&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitGaur17&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MohitGaur17&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/sweMohitGaur">

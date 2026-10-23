@@ -128,19 +128,6 @@ JWT • NumPy • OAuth • Pandas • Plotly • Streamlit
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohitGaur17&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitGaur17&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MohitGaur17&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">

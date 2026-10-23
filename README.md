@@ -2,14 +2,14 @@
 
 ### Software Engineer • Full-Stack • Applied AI
 
-I enjoy turning ideas into real software—from scalable web applications and backend systems to machine learning solutions. My goal is simple: **build software that's useful, scalable, and enjoyable to use.**
+I enjoy turning ideas into real software—from scalable web applications and backend systems to machine learning solutions. My goal is simple: **build software that's useful and enjoyable to use.**
 
 ---
 
 ## 🚀 Current Focus
 
-- Building scalable full-stack applications
-- Designing scalable backend systems and REST APIs
+- Building full-stack applications
+- Designing backend systems and REST APIs
 - Building AI-powered applications
 - Learning system design 
 - Writing clean, maintainable software

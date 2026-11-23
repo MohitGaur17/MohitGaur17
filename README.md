@@ -34,7 +34,7 @@ AI-powered resume analyzer that evaluates resumes against job descriptions and g
 
 ---
 
-## [Satellite Image Classification Using Machine Learning](https://github.com/MohitGaur17/satellite-image-classification-ml
+## [Satellite Image Classification Using Machine Learning](https://github.com/MohitGaur17/satellite-image-classification-ml)
 
 End-to-end land-cover classification pipeline using Landsat 9 imagery, GIS, and machine learning.
 
